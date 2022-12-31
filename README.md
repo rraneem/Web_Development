@@ -1,4 +1,4 @@
-- QR code component
+- Facebook login page by Raneem Adba
 
 ## Welcome! 👋
 
@@ -6,4 +6,5 @@
 
 ## The Design:
 
-You supose to build out this QR code component and get it looking as close to the design as possible.
+In this design I made a Facebook login page using only HTML5 and CSS.
+
